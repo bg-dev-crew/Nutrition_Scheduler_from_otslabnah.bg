@@ -1,0 +1,14 @@
+To import this project to Android Stidio do :
++ 1: Got to Android Studio's Welcome Screen > Configure > Setting > Version Control tab
+  + 1.1: On Git sub tab input the pat to git.exe in the first field "Path to git executable"
+  + 1.2: On GitHub sub tab input your GitHib Login and Password
+and then click ok and go back on first page of welcome screen e.g. Quick Start (use the blu arow in the title row to navigate)
++ 2: To import from the welcome screen go to "Check Out project from Version Control" menu item 4 of the Quick Start screen
+  + 2.1: When clicked drop down menu appears SELECT GitHub
+  + 2.2: SELECT repository from "Vcs Repository URL" and PRESS the "Clone" button.
+  
++ 3: When openet Android studio displays grey sceen with nothing on it 
+  + 3.1: TO VIEW THE PROJECT FILES press ALT + 1
+  + 3.2: TO VIE THE LAYOUT navigate to app > res > layout / activity_main.xml AND DRAG AND DROP IT ON THE RIGHT GREY SCREEN
+
+==== NOW YOU HAVE IMPORTED AD OPENED THE  PROJECT AS IT WAS CREATED ON YOUR LOCKAL MACHINE =====
