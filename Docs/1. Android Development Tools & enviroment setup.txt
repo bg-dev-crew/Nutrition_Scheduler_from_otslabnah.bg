@@ -1,0 +1,9 @@
+I. Java JDK					http://www.oracle.com/technetwork/java/javase/downloads/index.html
+II. Android ADT Bundle (android dev tools)	http://developer.android.com/sdk/installing/index.html?pkg=studio
+II. or just the SDK				http://developer.android.com/sdk/installing/index.html?pkg=tools
+
+Tools:
+------
+1.Eclipse
+2.Android SDK
+3.Eclipse ADT Plugin
